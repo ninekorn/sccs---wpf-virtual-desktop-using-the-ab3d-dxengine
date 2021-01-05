@@ -1,3 +1,8 @@
+2020-jan-04 - all of those 4 version are the same thing but tiny things that i had added on with help from andrej benedik for a couple things. version 0.40 isn't working. i will upload the one that works with void expanse soon.
+
+steve chassé
+
+
 2021-jan-02-
 i wanted this to have the 60 days trial using the ab3d.dxengine.OculusWrap, right out of the box, for people to use the ab3d.dxengine.oculusWrap. I modified my repos so you won't be able to make them work out of the box anymore.
 
