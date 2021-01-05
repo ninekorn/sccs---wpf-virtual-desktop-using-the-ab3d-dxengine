@@ -1,0 +1,5 @@
+C:\Users\ninekorn\Documents\GitHub\sccs---wpf-virtual-desktop-using-the-ab3d-dxengine\40-SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\obj\Release\SkYaRk Virtual Desktop.csprojAssemblyReference.cache
+C:\Users\ninekorn\Documents\GitHub\sccs---wpf-virtual-desktop-using-the-ab3d-dxengine\40-SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\obj\Release\MainWindow.baml
+C:\Users\ninekorn\Documents\GitHub\sccs---wpf-virtual-desktop-using-the-ab3d-dxengine\40-SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\obj\Release\MainWindow.g.cs
+C:\Users\ninekorn\Documents\GitHub\sccs---wpf-virtual-desktop-using-the-ab3d-dxengine\40-SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\obj\Release\App.g.cs
+C:\Users\ninekorn\Documents\GitHub\sccs---wpf-virtual-desktop-using-the-ab3d-dxengine\40-SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\obj\Release\SkYaRk Virtual Desktop_MarkupCompile.cache

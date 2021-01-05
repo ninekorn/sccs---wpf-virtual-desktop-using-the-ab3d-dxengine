@@ -1,0 +1,40 @@
+﻿'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\SkYaRk Virtual Desktop.exe'. Symbols loaded.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_64\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\AppData\Local\Temp\VisualStudio.XamlDiagnostics.6512\Microsoft.VisualStudio.DesignTools.WpfTap.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.OculusWrap.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.DXEngine.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.DXEngine.Wpf.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\SharpDX.DXGI.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\SharpDX.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\SharpDX.Direct3D11.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\SharpDX.Mathematics.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'vUOcTODYJRcw'. Module was built without symbols.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.PowerToys.dll'. Module was built without symbols.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.DXEngine.OculusWrap.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Users\ninekorn\Desktop\39 - SkYaRk Virtual Desktop\39 - SkYaRk Virtual Desktop\SkYaRk Virtual Desktop\bin\Release\Ab3d.PowerToys.Input.dll'. Cannot find or open the PDB file.
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll'. Cannot find or open the PDB file.
+Exception thrown: 'System.Reflection.TargetParameterCountException' in mscorlib.dll
+Exception thrown: 'System.Reflection.TargetParameterCountException' in PresentationFramework.dll
+The thread 0x2d70 has exited with code 0 (0x0).
+'SkYaRk Virtual Desktop.exe' (CLR v4.0.30319: SkYaRk Virtual Desktop.exe): Loaded 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.dll'. 
+Exception thrown: 'System.ComponentModel.LicenseException' in Ab3d.PowerToys.dll
+Exception thrown: 'System.Reflection.TargetInvocationException' in mscorlib.dll
+An unhandled exception of type 'System.Reflection.TargetInvocationException' occurred in mscorlib.dll
+Exception has been thrown by the target of an invocation.
+
+The program '[6512] SkYaRk Virtual Desktop.exe' has exited with code -1073741510 (0xc000013a).
